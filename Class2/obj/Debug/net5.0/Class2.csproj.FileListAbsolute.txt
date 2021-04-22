@@ -1,0 +1,16 @@
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.AssemblyInfo.cs
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.exe
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.deps.json
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.runtimeconfig.json
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.dll
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\ref\Class2.dll
+C:\Users\fareed\Desktop\Class2\bin\Debug\net5.0\Class2.pdb
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.dll
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\ref\Class2.dll
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.pdb
+C:\Users\fareed\Desktop\Class2\obj\Debug\net5.0\Class2.genruntimeconfig.cache
